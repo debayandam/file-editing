@@ -94,5 +94,5 @@ void read()
 }
 void close(void)
 {
-     printf("This project has been created by Anjali Kumari(67), Debjani Chakraborty(68), Aditya Gautam(69)\n");
+     printf("This project has been created by DEBAYAN DAM.\n");
 }
